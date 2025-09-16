@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
     name: "Aniket - Developer"
-    email: "ani@gmail.com"
+    email: "{cipher}4da1d9286b426816799f492a12ac809f41d31301bc3d7d9e19d5e309ca727d54"
   onCallSupport:
     - 99999999999
     - 99999999999
