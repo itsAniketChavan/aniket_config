@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Aniket - Developer"
     email: "ani@gmail.com"
@@ -12,4 +12,5 @@ accounts:
     - 99999999999
 
     - 99999999999
+
 
